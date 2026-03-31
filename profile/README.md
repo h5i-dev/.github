@@ -23,5 +23,5 @@ A version-controlled reasoning environment that allows AI agents to maintain sta
 Enhances traditional commits with AI metadata and automated safety checks.
 
 * **Automatic Provenance**: Records the exact prompt, model, and agent ID used for the change.
-* **Design Decisions**: Captures non-obvious implementation choices, including alternatives considered and reasons for the final selection.
-* **Automated Audit**: Runs security deterministic rules, such as credential leak detection and CI/CD tampering checks, before a commit is finalized.
+* **Design Decisions**: Captures non-obvious implementation choices, including reasons for the final selection.
+* **Automated Audit**: Runs security deterministic rules, such as credential leak detection, before a commit is finalized.
