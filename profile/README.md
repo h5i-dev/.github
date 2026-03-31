@@ -17,7 +17,7 @@ A version-controlled reasoning environment that allows AI agents to maintain sta
 
 * **OTA Trace**: Logs every *Observe–Think–Act* step to preserve the logic used during a task.
 * **Milestone Management**: Tracks progress toward a specific project goal with checkpoint commits.
-* **Reasoning Branches**: Allows the AI to explore risky alternatives in a separate reasoning thread without losing the main context, similar to `git branch`.
+* **Reasoning Branches**: Allows the AI to explore risky alternatives in a separate reasoning thread without losing the main context.
 
 ### 3. `h5i commit` — Provenance & Integrity
 Enhances traditional commits with AI metadata and automated safety checks.
