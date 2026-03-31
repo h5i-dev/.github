@@ -7,7 +7,7 @@
 ### 1. `h5i notes` — Deep AI Observability
 This suite analyzes AI agent session logs to visualize the "hidden" work performed during development.
 
-* **Exploration Footprint**: Reveals which files the AI consulted versus which it edited, identifying implicit dependencies that Git diffs miss.
+* **Exploration Footprint**: Reveals which files the AI consulted versus which it edited.
 * **Uncertainty Heatmap**: Surfaces moments where the AI expressed low confidence or hedged its reasoning, ranked by confidence scores.
 * **Omission Reporting**: Automatically detects "deferred" tasks, placeholders, and unfulfilled promises in the code.
 * **Attention Coverage**: Flags "blind edits", files modified by the AI without being read first in the current session.
