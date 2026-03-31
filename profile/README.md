@@ -1,4 +1,4 @@
-## h5i: Version Control for AI-Generated Code
+## h5i: Next-Gen AI-Aware Git
 
 `h5i` (pronounced *high-five*) is a Git sidecar designed to track the **intent**, **provenance**, and **reasoning** behind AI-assisted development. While Git records *what* changed, `h5i` records *why* and *how* the AI arrived at those changes.
 
